@@ -1,3 +1,3 @@
 output "hello" {
-  value = "from app_a/networking/subdir/main.tf"
+  value = "from app_b/networking/subdir/main.tf"
 }
