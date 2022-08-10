@@ -1,3 +1,3 @@
 output "hello" {
-  value = "from app_a/networking......"
+  value = "from app_a/networking......."
 }
