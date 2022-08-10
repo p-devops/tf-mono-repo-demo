@@ -1,3 +1,3 @@
 output "hello" {
-  value = "from app_a/main.tf...."
+  value = "from app_a/main.tf....."
 }
